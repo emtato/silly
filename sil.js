@@ -63,7 +63,7 @@ btn2.addEventListener("click", () => {
             extra.id = "extra";
 
             const extraImg = document.createElement("img");
-            extraImg.src = "https://pbs.twimg.com/media/GJn4PVXW0AAQjt_.jpg";
+            extraImg.src = "https://media.discordapp.net/attachments/1104784908343328900/1460463548143767764/AQOXtoRbSkjC1pCIBEG1zYeHmvr5se9n6Y3EHMHd83OmleZDYM3fv6uMqRGkziV87vXapO_BMtfe7RTPmaXTGAgI.gif?ex=698fe0ab&is=698e8f2b&hm=cf2bd3f3a38f14945701521ddaa4a7af579ddf354aec56d9ea325ab365d2194a&=&width=1296&height=1296";
             extraImg.alt = "Extra GIF";
             extraImg.style.width = "400px";
 
