@@ -52,8 +52,8 @@ btn2.addEventListener("click", () => {
 
         currentImg?.replaceWith(newImg);
         title.style.fontsize = "30px";
-        title.textContent = ":>";
-        btn2.textContent = ":>";
+        title.textContent = "good girl";
+        btn2.textContent = "press";
         btn2.style.fontSize = "20px";
 
         let extra = document.getElementById("extra");
@@ -74,8 +74,8 @@ btn2.addEventListener("click", () => {
             extra.remove();
         }
     }
-    else if(btn2.textContent === ":>"){
-        title.textContent = "good girl";
+    else if(btn2.textContent === "press"){
+        title.textContent = "so obedient";
     }
 
 });
