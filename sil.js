@@ -75,7 +75,7 @@ btn2.addEventListener("click", () => {
         }
     }
     else if(btn2.textContent === ":>"){
-        title.textContent = "i love you so much!! <3";
+        title.textContent = "good girl";
     }
 
 });
